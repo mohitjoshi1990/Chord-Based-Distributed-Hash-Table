@@ -1,0 +1,3 @@
+#!/bin/bash +vx
+
+python proj1Server.py $1
